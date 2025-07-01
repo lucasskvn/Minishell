@@ -1,0 +1,6 @@
+*.o
+*.out
+*.lib
+*.a
+tempgetnbr.c
+coding-style-reports.log

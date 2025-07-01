@@ -1,0 +1,12 @@
+include
+lib
+Makefile
+mysh
+segfault
+src
+test_input.txt
+test_multiline.txt
+test_output.txt
+tests
+test_shell.sh
+tests_outputs

@@ -1,0 +1,14 @@
+total 220
+drwxr-xr-x  13 root root   4096 janv. 26 17:05 .
+drwxr-xr-x  23 root root   4096 mars  29 15:25 ..
+drwxr-xr-x   2 root root 102400 juin   3 13:32 bin
+drwxr-xr-x   2 root root   4096 oct.  18  2024 games
+drwxr-xr-x 153 root root  20480 juin   3 13:32 include
+drwxr-xr-x 131 root root   4096 juin   3 13:32 lib
+drwxr-xr-x   3 root root   4096 févr.  7 12:54 lib32
+drwxr-xr-x   2 root root   4096 févr.  7 12:54 lib64
+drwxr-xr-x  28 root root  12288 juin   3 13:32 libexec
+drwxr-xr-x  13 root root   4096 mai    6 10:27 local
+drwxr-xr-x   2 root root  32768 juin   3 13:32 sbin
+drwxr-xr-x 371 root root  16384 juin   3 13:32 share
+drwxr-xr-x  10 root root   4096 mai   22 12:37 src

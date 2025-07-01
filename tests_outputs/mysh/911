@@ -1,0 +1,18 @@
+-rw-r--r--  1 root                 root                   2319 mars  31  2024 bash.bashrc
+-rw-r--r--  1 root                 root                     45 janv. 24  2020 bash_completion
+drwxr-xr-x  2 root                 root                   4096 janv. 26 14:36 bash_completion.d
+-rw-r--r--  1 root                 root                  54784 avril  1  2024 complete.tcsh
+drwxr-xr-x  4 root                 root                   4096 avril  7 16:13 csh
+-rw-r--r--  1 root                 root                    560 avril  1  2024 csh.cshrc
+-rw-r--r--  1 root                 root                    285 avril  1  2024 csh.login
+-rw-r--r--  1 root                 root                     67 avril  1  2024 csh.logout
+drwxr-xr-x  2 root                 root                   4096 août  27  2024 cupshelpers
+-rw-r-----  1 root                 shadow                 1264 juin   3 13:32 gshadow
+-rw-r-----  1 root                 shadow                 1251 juin   3 13:32 gshadow-
+lrwxrwxrwx  1 root                 root                     32 sept. 16  2024 localtime -> /usr/share/zoneinfo/Europe/Paris
+-rw-r-----  1 root                 shadow                 1738 juin   3 13:32 shadow
+-rw-r-----  1 root                 shadow                 1716 mai   16 11:06 shadow-
+-rw-r--r--  1 root                 root                    164 avril  7 16:13 shells
+drwxr-xr-x  4 root                 root                   4096 avril 29 13:57 ssh
+drwxr-xr-x  2 root                 root                   4096 mars  29 15:28 zsh
+-rw-r--r--  1 root                 root                    460 janv. 20  2023 zsh_command_not_found

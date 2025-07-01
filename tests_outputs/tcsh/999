@@ -1,0 +1,4 @@
+rm: impossible de supprimer 'test_input.txt': Aucun fichier ou dossier de ce nom
+rm: impossible de supprimer 'test_output.txt': Aucun fichier ou dossier de ce nom
+rm: impossible de supprimer 'test_multiline.txt': Aucun fichier ou dossier de ce nom
+rm: impossible de supprimer 'test_c_files.txt': Aucun fichier ou dossier de ce nom

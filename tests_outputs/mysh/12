@@ -1,0 +1,14 @@
+/home/lucasskvn/delivery/B-PSU-200-LYN-2-1-minishell2-lucas.sangkhavongs
+include
+lib
+Makefile
+mysh
+segfault
+src
+test_c_files.txt
+test_input.txt
+test_multiline.txt
+test_output.txt
+tests
+test_shell.sh
+tests_outputs

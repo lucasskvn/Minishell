@@ -1,0 +1,14 @@
+total 148
+drwxrwxr-x 2 lucasskvn lucasskvn  4096 juin   4 12:18 include
+drwxrwxr-x 3 lucasskvn lucasskvn  4096 mars  11 18:51 lib
+-rw-rw-r-- 1 lucasskvn lucasskvn  2043 avril  7 21:07 Makefile
+-rwxrwxr-x 1 lucasskvn lucasskvn 85800 juin   4 12:18 mysh
+-rwxrwxr-x 1 lucasskvn lucasskvn 15784 mars  16 20:58 segfault
+drwxrwxr-x 2 lucasskvn lucasskvn  4096 juin   4 12:18 src
+-rw-r--r-- 1 lucasskvn lucasskvn    29 juin   5 09:23 test_c_files.txt
+-rw-rw-r-- 1 lucasskvn lucasskvn    33 juin   5 09:23 test_input.txt
+-rw-rw-r-- 1 lucasskvn lucasskvn    24 juin   5 09:23 test_multiline.txt
+-rw-r--r-- 1 lucasskvn lucasskvn   149 juin   5 09:23 test_output.txt
+drwxrwxr-x 2 lucasskvn lucasskvn  4096 avril  7 15:50 tests
+-rwxrwxrwx 1 lucasskvn lucasskvn  7028 juin   4 13:15 test_shell.sh
+drwxrwxr-x 4 lucasskvn lucasskvn  4096 juin   4 11:08 tests_outputs
